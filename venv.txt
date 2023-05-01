@@ -1,6 +1,6 @@
 ansible==7.4.0
 jmespath==1.0.1
-requests==2.28.2
+requests==2.29.0
 
 # Kubernetes.core collection requirements
 kubernetes==26.1.0
