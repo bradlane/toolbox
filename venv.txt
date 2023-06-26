@@ -1,4 +1,4 @@
-ansible==7.4.0
+ansible==8.1.0
 jmespath==1.0.1
 requests==2.28.2
 
